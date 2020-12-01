@@ -1,0 +1,16 @@
+[user]
+	name = Debbie Milburn
+	email = dmilburn@github.com
+[github]
+	user = dmilburn
+[push]
+	default = current
+[credential]
+	helper = osxkeychain
+[core]
+	editor = sublime -n -w
+[alias]
+	co = checkout
+	cm = commit -m
+	ap = add -p
+	s = status
